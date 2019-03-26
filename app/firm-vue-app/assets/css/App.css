@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Arvo:400,400i,700');
+
+body {
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+h1, h2 { font-family: 'Arvo', serif; }
+
+p {  font-family: 'Libre Franklin', sans-serif; }
+
+a { color: #E88E27; }
+a:hover { color: #F7CB15; }
+.btn-primary {
+    color: #fff;
+    background-color: #E88E27;
+    border-color: #E88E27;
+    border-radius: 2px;
+    width: 30%;
+}
+
+svg {
+    z-index: -999;
+}
+
+.logo-svg-container {
+  padding-top: 2.5em;
+}
+
+.App {
+  text-align: center;
+}
+
+
+circle:hover
+{
+ stroke: #FFB321;
+}
+
+svg#circle {
+  height: 250px;
+  width: 250px;
+}
+
+/*g circle {
+  stroke-dasharray: 700;
+  stroke-dashoffset: 700;
+  stroke-linecap: butt;
+  -webkit-transition: all 2s ease-out;
+  -moz-transition: all 2s ease-out;
+  -ms-transition: all 2s ease-out;
+  -o-transition: all 2s ease-out;
+  transition: all 2s ease-out;
+}
+
+g:hover circle {
+  fill: pink;
+  stroke-dashoffset: 0;
+  stroke-dasharray: 700;
+  stroke-width: 10;
+}
+
+text {
+  fill: pink;
+  font-size: 24px;
+}
+a:hover text {
+  fill: blue;
+}*/
+
+
+.App-logo {
+  transition-timing-function: cubic-bezier(0.25,0.1,0.25,1);
+  height: 20vmin;
+  pointer-events: none;
+}
+
+.App-slide1 {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  /*color: white;*/
+  background-image: url(../images/firm-porange.png);
+  background-repeat: no-repeat;
+  margin-top: -25vh;
+}
+
+.App-slide2 {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  /*color: white;*/
+  background-image: url(../images/firm-speaker.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App-slide3 {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  /*color: white;*/
+  background-image: url(../images/in-white-house.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App-slide1 #left-pane {
+  
+}
+
+.App-slide1 #right-pane, .App-slide2 #right-pane, .App-slide3 #right-pane {
+  background-color: rgba(255,255,255,0.9);
+  min-height: 100%;
+}
+
+
+.slide1#right-pane, .slide2#right-pane {
+  padding-top: 1em;
+}
+
+.card {
+  background-color: transparent;
+  background-clip: border-box;
+  border: 0;
+  border-radius: 0;
+}
+
+.card-title { margin-bottom: 2rem; }
+
+.list-group-item {
+    background: transparent;
+}
+.slide1.card {
+
+}
+
+.App-link {
+  color: #61dafb;
+}
+
