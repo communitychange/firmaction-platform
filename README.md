@@ -1,35 +1,83 @@
-In the project directory, you can run:
+# Firmaction Platoform
 
-### `npm start`
+Audience: mixed, politicians, members, new people  
+          	 
+Goal: paper pdf format →  something interactive way to display our mission  
+What to visualize out of document?  
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Scope of project  
+ 
+Not policy doc – but about the people  
+More life to it.  
+Get our base excited.   
+Then introduce to the press, funders, candidates  
+ 
+## Outline
+Lift up the humanity, reunification  
+Safety and security as an issue – not yet?  
+Long term path to citizenship  
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+**Harder asks** Will you stand with communities?  
+	
+**Technical asks**  
+-  it needs to be nimble   
+- whatever online structure we created needs to be flexible   
+-  allow for that ability	  
+- question:  what type of media production/capacity  
 
-### `npm test`
+## Interactive Presentation  
+Theme: pathway, roads, journey  
+Pathway to citizenship, figurative journey presentation  
+Store the story into one page, one interface.   
+Steamless and continuous experience   
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Examples:**  
+https://www.sbs.com.au/missing/ - interactive storytelling   
+http://www.sbs.com.au/theboat/  - journey of boat people in storytelling form  
+https://ocasio2018.com/   
 
-### `npm run build`
+More: https://www.awwwards.com/websites/web-interactive/   
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Video: 360 timelapse story: https://vimeo.com/channels/staffpicks/311490594   
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+Humanizing the issue story (StoryCorps): Could we call for people to share their stories? https://www.npr.org/2019/01/11/683798321/a-mom-and-her-teenage-daughter-brace-for-a-future-apart   
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Content First: Mapping out the journey**  
+    + Value, Problem, Solution   
+** Value: Starting point - Values, who are the people involved**  
+Families, dreamers  
+TPS in groceries, being a doctor  
+Assert their humanity  
+Open up to show families,   
+Definition of who we are  
+Quickly define firm and firm action - nat. Grassroot movement  
+History of what we are fighting for: summary of last decade of what FIRM is doing  
+Need a paragraph to summarize this ( ask Jasmine)  
 
-### `npm run eject`
+## Problem - (more action oriented)  
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Frame it as “As FIRM, we’ve been fighting to … keep families together, for rights of undocumented people included TPS holders, asylum keepers, DREAMERS  
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Solutions - (take away from the platform)  
+Policy proposal  
+The future, moving onwards  
+Visual - happy family embrace e/o, positive  
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+**Execution**	
+Mobile and desktop  
+How to capture conversation with a young person with someone in the fight for a long time.  
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+**Tools**  
+Engagement with audience, list-building, twitter?, instagram?  
+Collect info to see who’s engage,   
+To follow up  	
+Types of posts: video, text, audio, user-generated-social-media-response?  
 
+
+
+
+
+### Notes  
+Moodboard:  
+		http://rainforest.arkivert.no/#panorama/5  
+		https://mtcubacenter.org/   
