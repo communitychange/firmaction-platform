@@ -1,4 +1,4 @@
-# Firmaction Platoform
+# Firmaction Platform
 
 Audience: mixed, politicians, members, new people  
           	 
